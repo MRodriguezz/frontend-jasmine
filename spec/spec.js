@@ -1,7 +1,7 @@
 describe("First jasmine project", function() {
-  it("should say hello jasmine", function() {
+  it("Should Say Hello Cognits", function() {
 
-    expect(helloWorld()).toBe("hello world");
+    expect(helloCognits()).toBe("Hello Cognits");
   });
 
 });
